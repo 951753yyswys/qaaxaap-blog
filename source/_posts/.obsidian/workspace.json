@@ -174,20 +174,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false
+      "command-palette:打开命令面板": false
     }
   },
   "active": "82122e2a12b6cf7b",
   "lastOpenFiles": [
-    "hello-world.md",
+    "Niri-简明教程.md",
     "Hello2026！.md",
-    "测试贴.md",
-    "应该是自我介绍？.md"
+    "hello-world.md",
+    "应该是自我介绍？.md",
+    "测试贴.md"
   ]
 }
